@@ -1,4 +1,4 @@
-Look who's here~
+Look who's here
 
 ## Steam好友列表
 | Avatar                                                                            | Name                   | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
