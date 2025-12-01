@@ -3,8 +3,7 @@ Look who's here
 ## Steam好友列表
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/7cfa673c05e4ad6b0bd94962262afa5fa9c7ff31.jpg) | 🐟                        | [76561199397197060](https://steamcommunity.com/profiles/76561199397197060/) | ❌           | 2025-03-14 04:25:37 | 2025-11-25 09:58:36 |          |
-| ![](https://avatars.steamstatic.com/b6190913c3ae32ca4e40823d349b84b55e0b6609.jpg) | 半点心                      | [76561199443364159](https://steamcommunity.com/profiles/76561199443364159/) | ❌           | 2024-08-31 06:49:03 | 2025-11-20 11:38:47 |          |
+
 | ![](https://avatars.steamstatic.com/58729c5e7e615f935c57cdc6de55dc839b36339a.jpg) | 小^春子^⁰⁷²¹                | [76561198302462629](https://steamcommunity.com/profiles/76561198302462629/) | ❌           | 2024-01-21 05:41:28 | 2025-11-20 11:38:47 |          |
 | ![](https://avatars.steamstatic.com/edc68199272bd15217fce24200ab0777ea2987cd.jpg) | 卡农                       | [76561198310583671](https://steamcommunity.com/profiles/76561198310583671/) | ❌           | 2023-12-13 07:24:46 | 2025-09-29 09:52:22 |          |
 | ![](https://avatars.steamstatic.com/63212d2dd86e7cef1c36bebeb142987868949b51.jpg) | Firefly                  | [76561199106868912](https://steamcommunity.com/profiles/76561199106868912/) | ✅           | 2023-04-16 06:18:19 |                     |          |
